@@ -21,20 +21,30 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 40px;
+    font-size: 45px;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #FBFFB9;
     margin-top: 75px;
 }
+h1.black {
+    margin-top: 25px;
+    color: #383A3F;
+}
+h2 {
+    font-size: 30px;
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    color: #383A3F;
+}
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
+    color: #383A3F;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+    margin-top: 20px;
 }
 
 ul.posts { 
@@ -44,6 +54,10 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+
+img.prof {
+    border-radius: 5%;
 }
 
 .header {
@@ -72,4 +86,9 @@ ul.posts li {
 
 .text {
     margin-top: -25px;
+}
+
+.portfolio {
+    display: flex;
+    justify-content: center;
 }
