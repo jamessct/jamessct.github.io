@@ -17,6 +17,13 @@ a {
     text-decoration: none;
     color: #999;
 }
+a.gitlink {
+    margin-bottom: 750px;
+    font-size: 40px;
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    text-decoration: none;
+    color: #566270;
+}
 a:hover {
     text-decoration: underline;
 }
@@ -41,6 +48,9 @@ p {
     color: #383A3F;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     text-align: justify;
+}
+p.blurbs {
+    font-size: 16px;
 }
 footer {
     border-top: 1px solid #d5d5d5;
