@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: #f6ea8c;
+    background-color: #FBFFB9;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -23,6 +23,7 @@ a:hover {
 h1 {
     font-size: 40px;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: #FBFFB9;
     margin-top: 75px;
 }
 p {
@@ -66,6 +67,7 @@ ul.posts li {
 
 .profpic {
     margin-left: 0px;
+    margin-right: 10px;
 }
 
 .text {
