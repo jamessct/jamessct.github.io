@@ -46,10 +46,10 @@ ul.posts li {
 
 .header {
     background: tomato;
-    margin-left: 100px;
-    margin-right: 100px;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 80px;
+    margin-bottom: 80px;
     display: flex;
     justify-content: center;
 }
