@@ -46,10 +46,8 @@ ul.posts li {
 
 .header {
     background-image: url(https://aos.iacpublishinglabs.com/question/aq/1400px-788px/clouds-that-look-like-cotton-balls_62557eb9-9d3c-43d8-9e88-8b5662829adf.jpg?domain=cx.aos.ask.com);
-    margin-left: 400px;
-    margin-right: 400px;
-    margin-top: 150px;
-    margin-bottom: 150px;
+    height: 200px;
+    width: 1000px;
     border-radius: 50%;
     display: flex;
     justify-content: center;
