@@ -21,8 +21,9 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 2em;
+    font-size: 40px;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    margin-top: 75px;
 }
 p {
     font-size: 1.5em;
@@ -46,16 +47,19 @@ ul.posts li {
 
 .header {
     background-image: url(https://aos.iacpublishinglabs.com/question/aq/1400px-788px/clouds-that-look-like-cotton-balls_62557eb9-9d3c-43d8-9e88-8b5662829adf.jpg?domain=cx.aos.ask.com);
-    height: 200px;
-    width: 1000px;
-    margin-top: 20px;
-    margin-left: 0px;
-    margin-right: 0px;
+    position: absolute;
+      top: 0px;
+      left: 0px;
+      right: 0px;
+      width: 100%;
+      height: 200px;
+      z-index: -1;
     display: flex;
     justify-content: center;
 }
 
 .blurb {
+    margin-top: 220px;
     display: flex;
     flex-direction: row;
 }
@@ -64,3 +68,6 @@ ul.posts li {
     margin-left: 0px;
 }
 
+.text {
+    margin-top: -25px;
+}
