@@ -1,6 +1,6 @@
 body {
     margin: 60px auto;
-    width: 70%;
+    width: 80%;
     background-color: #FBFFB9;
 }
 nav ul, footer ul {
@@ -30,7 +30,7 @@ h1 {
     font-size: 45px;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #FBFFB9;
-    margin-top: 75px;
+    margin-top: 110px;
 }
 h1.black {
     margin-top: 25px;
@@ -42,7 +42,7 @@ h2 {
     color: #383A3F;
 }
 p {
-    font-size: 24px;
+    font-size: 28px;
     line-height: 1.4em;
     color: #383A3F;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -74,20 +74,20 @@ img.mobile {
 }
 
 .header {
-    background-image: url(https://aos.iacpublishinglabs.com/question/aq/1400px-788px/clouds-that-look-like-cotton-balls_62557eb9-9d3c-43d8-9e88-8b5662829adf.jpg?domain=cx.aos.ask.com);
+    background-image: url(http://www.mrwallpaper.com/wallpapers/blue-sky-clouds-2560x1600.jpg);
     position: absolute;
     top: 0px;
     left: 0px;
     right: 0px;
     width: 100%;
-    height: 220px;
+    height: 275px;
     z-index: -1;
     display: flex;
     justify-content: center;
 }
 
 .blurb {
-    margin-top: 240px;
+    margin-top: 305px;
     display: flex;
     flex-direction: row;
 }
